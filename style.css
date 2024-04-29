@@ -1,11 +1,27 @@
-.contenedor {
-    display: flex;
-    flex-wrap: wrap;
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
 }
-
-.seccion {
-    flex:  1 0 calc(50% - 10px);
-    margin: 5px;
-     padding: 10px;
-     border: 1px solid #414141;
+body {
+    text-align: center;
+}
+h2 {
+    font-size: 45px;
+    background-color: rgb(186, 185, 185);
+    margin-left: 180px;
+    margin-right: 180px;
+    border-color: 2px solid black;
+}
+p{
+    font-size: 18px;
+}
+section{
+    font-size: 30px;
+    color: black;
+}
+h3{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(157, 157, 157);
 }
